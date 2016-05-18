@@ -1,59 +1,72 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h2, h3, p {
+	margin: 0;
+	padding: 1rem;
+}
+
+
+
 .gentiva {
 	background-color: red;
-	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-family: sans-serif;
+	font-size: 0.5rem;
+	line-height: 1.8;
 	border: ;
 	border-radius: ;
-	padding: ;
+	padding: 10px;
 }
 
 .parthenon {
 	background-color: blue;
-	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-family: Copperplate;
+	font-size: 0.75rem;
+	line-height: 1.7rem;
 	border: ;
 	border-radius: ;
-	padding: ;
+	padding: 20px;
 }
 
 .southernHills {
 	background-color: green;
-	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-family: Courier;
+	font-size: 1rem;
+	line-height: 1.6rem;
 	border: ;
 	border-radius: ;
-	padding: ;
+	padding: 30px;
 }
 
 .bonSecours {
 	background-color: orange;
-	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-family: monospace;
+	font-size: 1.25rem;
+	line-height: 1.5rem;
 	border: ;
 	border-radius: ;
-	padding: ;
+	padding: 40px;
 }
 
 .woodfin {
 	background-color: aqua;
-	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-family: Tahoma;
+	font-size: 1.5rem;
+	line-height: 1.25rem;
 	border: ;
 	border-radius: ;
-	padding: ;
+	padding: 50px;
 }
 
 .usaf {
 	background-color: lightgrey;
-	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-family: impact;
+	font-size: 1.75rem;
+	line-height: 1.1rem;
 	border: ;
 	border-radius: ;
-	padding: ;
+	padding: 60px;
 }
